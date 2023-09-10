@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Super-pixel Sampling in 3D"
+date:   2020-04-01 22:21:59 +00:00
+image: /images/ssn.png
+categories: Others
+author: "Zhengjie Xu"
+authors: "<strong>Zhengjie Xu*</strong>, Shuo Cheng*, Quan Vuong*"
+course: "CSE 291: Deep Learning meets Geometry"
+paper: /pdfs/291_final_report.pdf
+---
+We implemented a differentiable grouping module and combine it with off-the-shelf point cloud analysis frameworks (PointNet++). The module optimizes the embedding space to enforce the local feature consistency. The learnt mid-level abstraction can be used to discover geometry primitives as well as simplify the downstream tasks. With this module, we out-performed the original framework in point segmentation task.

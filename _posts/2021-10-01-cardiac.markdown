@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Generalization in Cardiac Image Segmentation"
+date:   2021-10-01 22:21:59 +00:00
+image: /images/cardiac.png
+categories: research
+author: "Zhengjie Xu"
+authors: "<strong>Zhengjie Xu</strong>, Zixiang Zhou, Garrison W. Cottrell, and Mai H. Nguyen"
+venue: "IEEE International Conference on Big Data"
+paper: https://ieeexplore.ieee.org/document/9671847
+---
+We focus on the task of cardiac image semantic segmentation and synthesize five different real-world scenarios to find the optimal training approach for deep learning models to achieve good generalization across different datasets.
