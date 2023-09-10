@@ -2,7 +2,7 @@
 layout: post
 title:  "Generalization in Cardiac Image Segmentation"
 date:   2021-10-01 22:21:59 +00:00
-image: /images/cardiac.png
+image: /images/cardiac.jpg
 categories: research
 author: "Zhengjie Xu"
 authors: "<strong>Zhengjie Xu</strong>, Zixiang Zhou, Garrison W. Cottrell, and Mai H. Nguyen"
