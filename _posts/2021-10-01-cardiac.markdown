@@ -7,6 +7,6 @@ categories: research
 author: "Zhengjie Xu"
 authors: "<strong>Zhengjie Xu</strong>, Zixiang Zhou, Garrison W. Cottrell, and Mai H. Nguyen"
 venue: "IEEE International Conference on Big Data"
-paper: https://ieeexplore.ieee.org/document/9671847
+arxiv: https://ieeexplore.ieee.org/document/9671847
 ---
 We focus on the task of cardiac image semantic segmentation and synthesize five different real-world scenarios to find the optimal training approach for deep learning models to achieve good generalization across different datasets.
