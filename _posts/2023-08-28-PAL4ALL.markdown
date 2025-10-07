@@ -7,6 +7,8 @@ categories: research
 author: "Zhengjie Xu"
 authors: "Lingzhi Zhang*, <strong>Zhengjie Xu</strong>*, Connelly Barnes, Yuqian Zhou, Qing Liu, He Zhang, Zhe Lin, Eli Shechtman, Sohrab Amirghodsi, Jianbo Shi"
 venue: "ICCV"
+arxiv: https://arxiv.org/pdf/2310.05590.pdf
+code: https://github.com/owenzlz/PAL4VST
+dataset: https://github.com/owenzlz/PAL4VST
 ---
-Paper, code, and data comming soon!
 We generalize Perceptual Artifacts Localization to ten diverse image synthesis, and shows promising accuracy. We also show the effectiveness of automatic artifacts fixing and quality assessment as downstream applications.
