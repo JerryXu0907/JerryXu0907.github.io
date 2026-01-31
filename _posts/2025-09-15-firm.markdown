@@ -6,7 +6,7 @@ image: /images/firm.gif
 categories: research
 author: "Zhengjie Xu"
 authors: "<strong>Zhengjie Xu</strong>, Ye Li, Kwan-yee Lin, Stella X. Yu"
-venue: "In submission"
+venue: "ICRA 2026"
 arxiv: https://arxiv.org/abs/2511.07407
 website: https://firm2025.github.io/
 ---
