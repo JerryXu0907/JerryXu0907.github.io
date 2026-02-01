@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Unified Humanoid Fall-Safety Policy from a Few Demonstrations"
-date:   2025-09-15 22:21:59 +00:00
+date:   2026-06-10 22:21:59 +00:00
 image: /images/firm.gif
 categories: research
 author: "Zhengjie Xu"
 authors: "<strong>Zhengjie Xu</strong>, Ye Li, Kwan-yee Lin, Stella X. Yu"
-venue: "ICRA 2026"
+venue: "ICRA"
 arxiv: https://arxiv.org/abs/2511.07407
 website: https://firm2025.github.io/
 ---
