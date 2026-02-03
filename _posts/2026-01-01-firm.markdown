@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unified Humanoid Fall-Safety Policy from a Few Demonstrations"
-date:   2026-06-10 22:21:59 +00:00
+date:   2026-01-01 22:21:59 +00:00
 image: /images/firm.gif
 categories: research
 author: "Zhengjie Xu"
