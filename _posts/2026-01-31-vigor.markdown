@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "VIGOR : Visual Goal-In-Context Inference for Unified Humanoid Fall Safety"
+date:   2026-01-31 22:21:59 +00:00s
+image: /images/vigor.gif
+categories: research
+author: "Zhengjie Xu"
+authors: "Osher Azulay, <strong>Zhengjie Xu</strong>, Andrew Scheffer, Stella X. Yu."
+venue: "Submission"
+arxiv: https://arxiv.org/abs/2602.16511
+website: https://vigor2026.github.io/
+---
+We introduce a unified framework for fall mitigation and stand-up recovery with perceptual awareness using egocentric vision. Our method employs a privileged teacher that learns recovery strategies conditioned on sparse demonstration priors and local terrain geometry, and a deployable student that infers the teacher’s goal representation from egocentric depth and short-term proprioception via distillation. This enables the student to reason about both how to fall and how to get up while avoiding unsafe contacts. Simulation experiments demonstrate higher success and safer recovery across diverse non-flat terrains and disturbance conditions compared to blind baselines.
