@@ -6,7 +6,7 @@ image: /images/vigor.gif
 categories: research
 author: "Zhengjie Xu"
 authors: "Osher Azulay, <strong>Zhengjie Xu</strong>, Andrew Scheffer, Stella X. Yu."
-venue: "Submission"
+venue: "In submission"
 arxiv: https://arxiv.org/abs/2602.16511
 website: https://vigor2026.github.io/
 ---
